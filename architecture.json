@@ -1,0 +1,160 @@
+{
+  "book_id": "the-vessel-of-forgotten-names",
+  "title": "The Vessel of Forgotten Names",
+  "tagline": "A young woman steals a forgotten god and begins a journey to restore the silenced stories of her homeland.",
+  "target_words": 70000,
+  "actual_words": 60395,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Theft of Memory",
+    "Postcolonial Spiritual Haunting",
+    "Animism vs. Modern Amnesia",
+    "The Seeker as Vessel"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Theft",
+      "words": 2500
+    },
+    {
+      "ch": 2,
+      "title": "The Whisper in the Grain",
+      "words": 2400
+    },
+    {
+      "ch": 3,
+      "title": "Grandfather's Silence",
+      "words": 2300
+    },
+    {
+      "ch": 4,
+      "title": "The Map of Absences",
+      "words": 2600
+    },
+    {
+      "ch": 5,
+      "title": "The Museum of Spoil",
+      "words": 2550
+    },
+    {
+      "ch": 6,
+      "title": "The River's Memory",
+      "words": 2450
+    },
+    {
+      "ch": 7,
+      "title": "The Taste of Palm Sugar and Salt",
+      "words": 2700
+    },
+    {
+      "ch": 8,
+      "title": "The Second Vessel",
+      "words": 2400
+    },
+    {
+      "ch": 9,
+      "title": "The Weaver of Names",
+      "words": 2650
+    },
+    {
+      "ch": 10,
+      "title": "Colonial Ghosts in Corinthian Columns",
+      "words": 2800
+    },
+    {
+      "ch": 11,
+      "title": "The Festival of Unmasked Spirits",
+      "words": 2750
+    },
+    {
+      "ch": 12,
+      "title": "The Archive of Broken Conversations",
+      "words": 2600
+    },
+    {
+      "ch": 13,
+      "title": "The Language of Offering",
+      "words": 2450
+    },
+    {
+      "ch": 14,
+      "title": "The Keeper of the Dry Well",
+      "words": 2500
+    },
+    {
+      "ch": 15,
+      "title": "The Symphony of Cicadas and Silence",
+      "words": 2350
+    },
+    {
+      "ch": 16,
+      "title": "Confrontation at Ruen Baan Mai",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "The Pilgrimage of One",
+      "words": 2550
+    },
+    {
+      "ch": 18,
+      "title": "The Clay of New Forms",
+      "words": 2700
+    },
+    {
+      "ch": 19,
+      "title": "The Threshold of Green Light",
+      "words": 2400
+    },
+    {
+      "ch": 20,
+      "title": "The Chorale of Lost Voices",
+      "words": 2650
+    },
+    {
+      "ch": 21,
+      "title": "The Weight of a Name",
+      "words": 2500
+    },
+    {
+      "ch": 22,
+      "title": "The Unbinding",
+      "words": 2800
+    },
+    {
+      "ch": 23,
+      "title": "The First Telling",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The Cup Refilled",
+      "words": 3100
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where the protagonist encounters a colonial-era ghost trapped in a bureaucratic document, and must 'listen' to its story to free it.",
+      "Create a new 'vessel' the protagonist finds—an object holding a forgotten spirit. Describe its physical form, its latent memory, and the first sign it gives of being alive.",
+      "Write a dialogue between the protagonist and her grandfather where he finally breaks his silence about a specific loss tied to the colonial past.",
+      "Imagine a modern setting (a mall, a server farm) where the protagonist must use her 'sickness' to hear the spirit of the land beneath the concrete."
+    ],
+    "technical": [
+      "Build an interactive map of the town of Surat, layering the modern geography with clickable 'ghost points' that reveal forgotten stories, spirits, and colonial erasures.",
+      "Create a 'Vessel Generator' tool that randomly combines a material (wood, clay, metal), a forgotten purpose, and a postcolonial trauma to create a unique spirit-object for writers to use."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marguerite Duras (for the postcolonial sensuality and haunted landscapes)",
+      "William Faulkner (for the non-linear time and burdens of history)",
+      "Yukio Mishima (for the symbolic intensity and obsession with aesthetics of decay)",
+      "Ben Okri (for the spiritual realism and the novel as a conduit for ancestral memory)"
+    ]
+  },
+  "cover_prompt": "A young woman, the vessel, cradles a small, weathered clay jar from which ethereal, ghostly script and faint faces of forgotten ancestors drift like smoke into the air, her expression a mix of reverence and determined theft, [Detailed Scene & Context: set in a twilight liminal space where ancient, moss-covered stone ruins of a temple merge with the stark, grey concrete foundations of a modern city, with spectral, translucent figures of animal spirits watching from the shadows], [Artistic Style & Medium: in the atmospheric style of Zdzisław Beksiński's haunting surrealism and the symbolic, textured brushwork of modern Asian symbolist painters like Wu Guan-Zhong, blending oil painting textures with ink wash subtlety], [Composition & Camera: book cover framing, a centered and intimate portrait composition with a dramatic low-angle shot looking up at the vessel, emphasizing her stature against the converging worlds], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single light source illuminating the jar and her face from below, casting long, haunting shadows, within a color palette of deep indigo, burnt umber, ash grey, and accents of ethereal gold and spectral white], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
